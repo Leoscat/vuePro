@@ -1,6 +1,6 @@
 <template>
   <div>
-    <x-header>列表</x-header>
+    <x-header>列表111</x-header>
     <tabbar>
       <tabbar-item  link="/">
         <img slot="icon"  src="../assets/vux_logo.png">
